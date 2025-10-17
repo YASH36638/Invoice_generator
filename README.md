@@ -56,6 +56,6 @@ The **Invoice Generator** is a separate web app that allows you to:
 
 Clone the repository:
 ```bash
-git clone https://github.com/YASH36638/Javascript-Projects.git
+git clone https://github.com/YASH36638/JS_Projects.git
 cd Javascript-Projects
 python -m http.server 8080
